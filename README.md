@@ -1,6 +1,6 @@
 ## Hi there, I'm Erik 👋😎
 
-🏫 I'm a IT student at MQ <br/>
+🏫 I'm a IT student at MQU in Sydney <br/>
 🧠 I'm a Web and App design major <br/>
 🔭 I’m currently working on Video Editing on Davinci Resolve <br/>
 🌱 I’m currently learning JS <br/>
@@ -20,8 +20,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently working on Video Editing mainly Vfx, Motion Graphics & 
+- 🌱 I’m currently learning JS, and Motion Graphics on Davinci Resolve
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
