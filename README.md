@@ -3,7 +3,7 @@
 🏫 I'm a IT student at MQU in Sydney <br/>
 🧠 I'm a Web and App design major <br/>
 🔭 I’m currently working on Video Editing on Davinci Resolve <br/>
-🌱 I’m currently learning JS <br/>
+🌱 I’m currently learning JS & Wireshark <br/>
 <!-- ⚡ Fun fact: I'm really into ??? -->
 
 # 💻 Tech Stack:
